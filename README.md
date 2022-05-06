@@ -1,6 +1,6 @@
 # Minecraft Legacy Console Updater
 
-Minecraft is a sandbox video game, it's available for multiple platforms (e.g. iOS, Android, Windows, macOS, Linux) and also for legacy consoles. Unfortunately, in the year 2019, Mojang decided that the Village & Pillage update won't come to PS3, PS Vita, Xbox 360 and Wii U. Fortunately, I've wrote this installer, with which you can install a modified version of the legacy Console Edition that contains the Village & Pillage Update. The installer will come out at May of this year.
+Minecraft is a sandbox video game, it's available for multiple platforms (e.g. iOS, Android, Windows, macOS, Linux) and also for legacy consoles. Unfortunately, in the year 2019, Mojang decided that the Village & Pillage update won't come to very old consoles. Fortunately, I've wrote this installer, with which you can install a modified version of the legacy Console Edition on your PS3 and PS Vita that contains the Village & Pillage Update. The installer will come out at the end of this year.
 
 FAQ:
 
